@@ -7,8 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-       Hello There 1
+        <h1 className="App-intro">Welcome</h1>
       </header>
+      <p className="App-intro">
+        I was changeed here
+      </p>
     </div>
   );
 }
